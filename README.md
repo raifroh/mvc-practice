@@ -1,6 +1,9 @@
 # mvc-practice
+
 npm install
+
 create config folder
+
 add .env file within config folder with PORT and DB_STRING variables 
 
 
